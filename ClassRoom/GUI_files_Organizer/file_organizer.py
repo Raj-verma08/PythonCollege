@@ -2,6 +2,7 @@ import os
 import shutil
 
 def organize_files(directory):
+
     # Define file categories and corresponding extensions
     file_categories = {
         'Documents': ['.pdf', '.docx', '.txt', '.xlsx'],
